@@ -33,7 +33,7 @@ const Candidate = () => {
                     <h6 className="name">Tanjim</h6>
                 </div>
                 <div className="col span_2">
-                    <td>tanjimislamh@gmail.com</td>
+                    <h6>tanjimislamh@gmail.com</h6>
                 </div>
                 <div className="col span_2">
                     <h6>0177765423</h6>

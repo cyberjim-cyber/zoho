@@ -1,5 +1,5 @@
 import React from 'react';
-import Candid2 from '../Candid2/Candid2';
+
 import Candidate from '../Candidate/Candidate';
 import Filter from '../Filter/Filter';
 import Sidebar from '../Sidebar/Sidebar';
@@ -21,7 +21,7 @@ const Home = () => {
             </div>
             <div className="candid">
                 <Candidate></Candidate>
-                {/* <Candid2></Candid2> */}
+               
             </div>
             </div>
             
