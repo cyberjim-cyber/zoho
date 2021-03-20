@@ -1,0 +1,17 @@
+.header-full{
+    background-color: black;height:40px;
+}
+
+.nav-list{
+    list-style-type: none;
+}
+
+.nav-link{
+    text-decoration: none;color:white;margin-left: 10px;font-family:sans-serif ;
+}
+.nav-li{
+    float: left;margin-top: 10px;
+}
+.active{
+    background-color: rgba(255,255,255,0.2);width:30px;
+}

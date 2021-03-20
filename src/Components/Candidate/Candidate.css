@@ -1,0 +1,30 @@
+.row{
+    width: 100%;
+}
+.border{
+    border: .2px solid rgb(228, 225, 225);height:42px;margin-bottom:2px;
+}
+.span_2{
+    width: 16.72%;
+}
+
+.col{
+    display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+h5,h6,p,td{
+   
+    font-weight:100px;margin-top: 0px;margin-bottom: 0px;font-size:12px;font-family: interRegular;
+}
+
+.next{
+    border: .2px solid rgb(223, 222, 222);height:70px;
+}
+.head-white{
+    color: #9d9d9d;
+}
+
+.name{
+    color:#338CF0;
+}

@@ -1,0 +1,13 @@
+.row{
+width:100%;
+}
+
+.sidebar{
+    width: 20%;float:left;height:400px;border-right: 1px solid grey;
+}
+.candid{
+    width:78%;float:left;height:400px;
+}
+.filter{
+    background-color:rgb(241, 233, 233);overflow: hidden;
+}
